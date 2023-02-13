@@ -1,11 +1,11 @@
 title: Huang Meiyu # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-    <br>
+  <p>
   Discover the story behind data,<br>
   One dataset at a time.<br>
   I am driven to discover stories behind data to create insighful decisions. 
-  <br><br>
+  </p>
   <a href="https://github.com/waterpetals/waterpetals.github.io">MY PROJECTS PORTFOLIO</a>
   <br>
   <a href="https://github.com/waterpetals/waterpetals.github.io/aboutme">ABOUT ME</a>
