@@ -2,23 +2,23 @@
 
 ---
 
-### Interactive EXCEL Dashboard- 
+### Interactive EXCEL Dashboard
 
-[Project 1 Title](/sample_page)
+Customer Churn Analysis (/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
-### TABLEAU- Singapore Ageing Population 
+### TABLEAU Dashboard
 
-[Project 2 Title](/pdf/sample_presentation.pdf)
+Singapore Ageing Population (/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
-### PYTHON Machine Learning Models- Loan Lending Club Default Prediction
+### PYTHON Machine Learning Prediction Analysis
 
-[Project 3 Title](http://example.com/)
+Lending Club Default Prediction(http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
