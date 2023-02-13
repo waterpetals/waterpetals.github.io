@@ -4,32 +4,28 @@
 
 ### Interactive EXCEL Dashboard
 
-Customer Churn Analysis 
-(/sample_page)
+Customer Churn Analysis (/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
 ### TABLEAU Dashboard
 
-Singapore Ageing Population 
-(/pdf/sample_presentation.pdf)
+Singapore Ageing Population (/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
 ### PYTHON Machine Learning Prediction Analysis
 
-Lending Club Default Prediction
-(http://example.com/)
+Lending Club Default Prediction (http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
 ### SQL
 
-[Project 4 Title]
-(http://example.com/)
+[Project 4 Title] (http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
