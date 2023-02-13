@@ -1,18 +1,31 @@
-## Portfolio
+## Project Portfolio
 
 ---
 
-### Category Name 1 
+### Interactive EXCEL Dashboard- 
 
 [Project 1 Title](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
+
+### TABLEAU- Singapore Ageing Population 
+
 [Project 2 Title](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
+
+### PYTHON Machine Learning Models- Loan Lending Club Default Prediction
+
 [Project 3 Title](http://example.com/)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+---
+
+### SQL
+
+[Project 4 Title](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
